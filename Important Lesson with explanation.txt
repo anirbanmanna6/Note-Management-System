@@ -1,0 +1,30 @@
+2.14 MB (22,53,519 bytes)
+
+Step 1
+------------
+git init   -> Creating a local repository in the same area of work space
+
+Step - common
+----------
+git status -> can be used any time, any stage to check the status
+
+Step - 2
+---------
+git add 'file Name with extension'  -> specific File (adding to STAGING area)
+OR,
+git add -A      ->   All files  (adding to STAGING area)
+
+Step - 3
+-----------
+git commit -m "any comment about commit"  -> moving from STAGING area to  Final repo
+
+
+List of all branches
+--------------------------
+List a branch
+$git branch –-list
+
+
+push
+-------
+it is used to send the code to remote repository
